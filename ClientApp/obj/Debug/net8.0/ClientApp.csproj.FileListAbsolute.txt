@@ -1,0 +1,14 @@
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\bin\Debug\net8.0\ClientApp.exe
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\bin\Debug\net8.0\ClientApp.deps.json
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\bin\Debug\net8.0\ClientApp.runtimeconfig.json
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\bin\Debug\net8.0\ClientApp.dll
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\bin\Debug\net8.0\ClientApp.pdb
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\obj\Debug\net8.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfoInputs.cache
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfo.cs
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\obj\Debug\net8.0\ClientApp.csproj.CoreCompileInputs.cache
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\obj\Debug\net8.0\ClientApp.dll
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\obj\Debug\net8.0\refint\ClientApp.dll
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\obj\Debug\net8.0\ClientApp.pdb
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\obj\Debug\net8.0\ClientApp.genruntimeconfig.cache
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ClientApp\obj\Debug\net8.0\ref\ClientApp.dll

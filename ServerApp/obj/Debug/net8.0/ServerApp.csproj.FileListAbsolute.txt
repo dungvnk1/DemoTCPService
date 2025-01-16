@@ -1,0 +1,14 @@
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\bin\Debug\net8.0\ServerApp.exe
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\bin\Debug\net8.0\ServerApp.dll
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\obj\Debug\net8.0\ServerApp.dll
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\Studying Document\FPT Documents\1_PRN222\Lab\lab1\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
